@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hysia_mm_demo/precache-manifest.e2da4cc75f2f71c4cd3719adfc49106b.js"
+  "/hysia_mm_demo/precache-manifest.6513e987d016b8659e8ae7b96b33d181.js"
 );
 
 self.addEventListener('message', (event) => {
