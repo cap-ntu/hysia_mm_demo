@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d73a5c2300870fb10a4f5c4ddc5c235",
+    "revision": "85e4affb74eed7a1f92e3f70d15eb46d",
     "url": "/hysia_mm_demo/index.html"
   },
   {
-    "revision": "8776f8cd1b2b25d0016f",
+    "revision": "8de37b40f8bd2bacce1e",
     "url": "/hysia_mm_demo/static/css/2.4c6ee7a4.chunk.css"
   },
   {
-    "revision": "19c377255fac269c8aaf",
+    "revision": "1f9705ba6aab68ce2305",
     "url": "/hysia_mm_demo/static/css/main.676d089b.chunk.css"
   },
   {
-    "revision": "8776f8cd1b2b25d0016f",
-    "url": "/hysia_mm_demo/static/js/2.664c5fe4.chunk.js"
+    "revision": "8de37b40f8bd2bacce1e",
+    "url": "/hysia_mm_demo/static/js/2.b4e75ae4.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/hysia_mm_demo/static/js/2.664c5fe4.chunk.js.LICENSE.txt"
+    "url": "/hysia_mm_demo/static/js/2.b4e75ae4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "19c377255fac269c8aaf",
-    "url": "/hysia_mm_demo/static/js/main.140d21ea.chunk.js"
+    "revision": "1f9705ba6aab68ce2305",
+    "url": "/hysia_mm_demo/static/js/main.9da1655f.chunk.js"
   },
   {
     "revision": "5c44e0c0620ba7836e98",
@@ -46,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3f7c37f14f85343bdd0b2a8be5bf01ad",
     "url": "/hysia_mm_demo/static/media/5-ads-display.3f7c37f1.mp4"
-  },
-  {
-    "revision": "dd9a4d370815a3957a865ab36209635c",
-    "url": "/hysia_mm_demo/static/media/image.dd9a4d37.png"
   },
   {
     "revision": "c485e1ff3b59b09e38d845fcaae5f64f",
