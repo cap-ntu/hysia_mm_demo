@@ -20,7 +20,7 @@ Please go to https://cap-ntu.github.io/hysia_mm_demo/ for more details
 
 ![ads-display](screenshots/ads-display.png)
 
-### d. New Model Binding
+### d. New Model Binding [[Code Template]](https://github.com/cap-ntu/Video-to-Retail-Platform/tree/hysia_v2/v2_plugin/example/maskrcnn-service)
 
 ![model-binding](screenshots/model-binding.png)
 
